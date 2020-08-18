@@ -1,0 +1,24 @@
+{
+  "name": "visual_regressions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.test.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-typescript": "^7.10.4",
+    "@types/jest": "^26.0.10",
+    "@types/jest-image-snapshot": "^3.1.0",
+    "@types/puppeteer": "^3.0.1",
+    "babel-jest": "^26.3.0",
+    "jest": "^26.4.0",
+    "jest-image-snapshot": "^4.1.0",
+    "puppeteer": "^5.2.1",
+    "typescript": "^3.9.7"
+  }
+}
